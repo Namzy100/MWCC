@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Midwest Cricket Conference</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <nav class="top-nav">
+        <div class="brand">
+          <div class="brand-mark">MWCC</div>
+          <div>
+            <p class="eyebrow">Midwest Cricket Conference</p>
+            <span class="brand-sub">Schedule Platform</span>
+          </div>
+        </div>
+        <div class="nav-links">
+          <a href="#home" class="active">Home</a>
+          <a href="schedule.html">Schedule</a>
+          <a href="#about">About</a>
+          <a href="#clubs">Clubs</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+
+      <header id="home" class="hero hero-home hero-feature">
+        <div class="hero-content">
+          <p class="eyebrow">Season 2026</p>
+          <h1>Midwest Cricket Conference</h1>
+          <p class="subhead">
+            Official home of weekend fixtures, standings, and tournament operations across the Midwest.
+          </p>
+          <div class="hero-banner">
+            <div>
+              <p class="banner-label">Next Showcase Match</p>
+              <h2 id="heroMatchTitle">CYCA Elite vs SBCC Slayers</h2>
+              <p class="banner-meta" id="heroMatchMeta">Tigers Park • Saturday, May 2, 2026 • 2:00 PM</p>
+            </div>
+            <div class="countdown">
+              <span class="countdown-label">Kickoff in</span>
+              <div class="countdown-time" id="countdown">--d --h --m</div>
+            </div>
+          </div>
+          <div class="highlight-strip" id="highlightStrip">
+            <div class="highlight active">Midwest CC vs Deccan Mavericks • Sunday 8:30 AM</div>
+            <div class="highlight">Incredibles vs Dolphins • Saturday 2:00 PM</div>
+            <div class="highlight">United XI vs Knotty 40 • Sunday 10:00 AM</div>
+          </div>
+          <p class="season-note">Season window: April 25, 2026 through October 18, 2026.</p>
+          <div class="hero-metrics">
+            <div class="metric">
+              <span class="metric-label">Tournaments</span>
+              <span class="metric-value">5</span>
+            </div>
+            <div class="metric">
+              <span class="metric-label">Sessions / Day</span>
+              <span class="metric-value">2</span>
+            </div>
+            <div class="metric">
+              <span class="metric-label">Weekend Play</span>
+              <span class="metric-value">Apr–Oct</span>
+            </div>
+          </div>
+          <div class="hero-actions">
+            <a class="primary" href="schedule.html">Open Schedule</a>
+            <button class="ghost" type="button">Team Portal</button>
+          </div>
+        </div>
+        <div class="hero-side">
+          <div class="hero-card">
+            <p class="hero-card-label">Live Fixture</p>
+            <h3>Deepark Dynamites</h3>
+            <p>vs Chicago Fire</p>
+            <span class="tag">Upcoming</span>
+          </div>
+          <div class="hero-card muted">
+            <p class="hero-card-label">Last Champion</p>
+            <h3>SBCC Slayers</h3>
+            <p>Premier Division</p>
+            <span class="tag">2025</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="fixtures-section">
+        <div class="section-title">
+          <h2>Upcoming Fixtures</h2>
+          <p>Live card view of the next set of MWCC matches.</p>
+        </div>
+        <div class="fixture-grid" id="fixtureGrid"></div>
+      </section>
+
+      <section class="stats-panel">
+        <div>
+          <span class="summary-label">Total Teams</span>
+          <span class="summary-value" id="statTeams">62</span>
+        </div>
+        <div>
+          <span class="summary-label">Total Tournaments</span>
+          <span class="summary-value" id="statTournaments">5</span>
+        </div>
+        <div>
+          <span class="summary-label">Most Successful Team</span>
+          <span class="summary-value" id="statMostSuccessful">SBCC Slayers</span>
+        </div>
+        <div>
+          <span class="summary-label">Last Champion</span>
+          <span class="summary-value" id="statLastChampion">Deccan Mavericks</span>
+        </div>
+      </section>
+
+      <section class="carousel-section">
+        <div class="section-title">
+          <h2>Tournaments</h2>
+          <p>Current MWCC competitions and status.</p>
+        </div>
+        <div class="carousel" id="tournamentCarousel">
+          <a class="carousel-card" href="schedule.html">
+            <div class="logo-pill">D1 White</div>
+            <h3>Yash Premier League</h3>
+            <p>Division 1 • White Ball</p>
+            <span class="tag">Ongoing</span>
+          </a>
+          <a class="carousel-card" href="schedule.html">
+            <div class="logo-pill">D1 Red</div>
+            <h3>Division 1 Red Ball</h3>
+            <p>Division 1 • Red Ball</p>
+            <span class="tag">Ongoing</span>
+          </a>
+          <a class="carousel-card" href="schedule.html">
+            <div class="logo-pill">D2 White</div>
+            <h3>Division 2 White Ball</h3>
+            <p>Division 2 • White Ball</p>
+            <span class="tag">Ongoing</span>
+          </a>
+          <a class="carousel-card" href="schedule.html">
+            <div class="logo-pill">D2 Red</div>
+            <h3>Division 2 Red Ball</h3>
+            <p>Division 2 • Red Ball</p>
+            <span class="tag">Ongoing</span>
+          </a>
+          <a class="carousel-card" href="schedule.html">
+            <div class="logo-pill">T20</div>
+            <h3>T20 League</h3>
+            <p>Individual Tournament</p>
+            <span class="tag">Ongoing</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="cta-panel">
+        <div>
+          <h2>Ready to explore the full 2026 schedule?</h2>
+          <p>Jump into the interactive console and filter by team, division, or ground.</p>
+        </div>
+        <a class="primary" href="schedule.html">Open Schedule</a>
+      </section>
+
+      <section id="about" class="placeholder">
+        <h2>About MWCC</h2>
+        <p>
+          The Midwest Cricket Conference (MWCC) organizes multi-division competitions
+          across the region, balancing weekend-only play with shared grounds and
+          cross-tournament participation. Our mission is to keep scheduling fair,
+          transparent, and accessible for clubs of every size.
+        </p>
+        <div class="about-grid">
+          <div>
+            <h4>Divisions</h4>
+            <p>Division 1 and Division 2 feature red and white ball leagues.</p>
+          </div>
+          <div>
+            <h4>T20 League</h4>
+            <p>Independent T20 tournament with the same playoff format.</p>
+          </div>
+          <div>
+            <h4>Season Window</h4>
+            <p>Late April through mid-October, excluding long weekends.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="clubs" class="placeholder">
+        <h2>Clubs & Teams</h2>
+        <p>Teams below are sourced from last season’s schedule and updated as new clubs register.</p>
+        <div class="team-tools">
+          <input id="teamSearch" type="text" placeholder="Search team name..." />
+        </div>
+        <div id="teamList" class="team-list"></div>
+      </section>
+
+      <section id="contact" class="placeholder">
+        <h2>Contact</h2>
+        <div class="contact-grid">
+          <div>
+            <h4>Phone</h4>
+            <p>(312) 555-0194</p>
+          </div>
+          <div>
+            <h4>Email</h4>
+            <p>schedule@mwcc.org</p>
+          </div>
+          <div class="faq-box">
+            <h4>FAQ</h4>
+            <p><strong>How do I request a change?</strong><br />Email the schedule team with your match ID.</p>
+            <p><strong>When are updates posted?</strong><br />Weekly on Wednesday evenings.</p>
+          </div>
+        </div>
+      </section>
+
+      <footer class="site-footer">
+        <div>
+          <p class="footer-title">Midwest Cricket Conference</p>
+          <p class="footer-sub">Weekend cricket across the Midwest.</p>
+        </div>
+        <div class="footer-links">
+          <a href="schedule.html">Schedule</a>
+          <a href="#about">About</a>
+          <a href="#clubs">Clubs</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

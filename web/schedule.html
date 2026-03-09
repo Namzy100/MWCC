@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MWCC | Schedule</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="schedule-page">
+    <div class="page">
+      <nav class="top-nav">
+        <div class="brand">
+          <div class="brand-mark">MWCC</div>
+          <div>
+            <p class="eyebrow">Midwest Cricket Conference</p>
+            <span class="brand-sub">Schedule Platform</span>
+          </div>
+        </div>
+        <div class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="schedule.html" class="active">Schedule</a>
+          <a href="index.html#about">About</a>
+          <a href="index.html#clubs">Clubs</a>
+          <a href="index.html#contact">Contact</a>
+        </div>
+      </nav>
+
+      <section class="panel schedule-panel">
+        <div class="section-title">
+          <h2>2026 Schedule Console</h2>
+          <p>Filter by tournament, division, team, session, or ground.</p>
+          <p class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></p>
+        </div>
+
+        <div class="schedule-tools">
+          <div class="quick-filters" role="group" aria-label="Quick filters">
+            <button class="chip active" data-range="all" type="button">All Matches</button>
+            <button class="chip" data-range="next2" type="button">Next 2 Weekends</button>
+            <button class="chip" data-range="next4" type="button">Next 4 Weekends</button>
+            <button class="chip" data-range="playoffs" type="button">Playoffs</button>
+            <button class="chip" data-range="month:2026-05" type="button">May 2026</button>
+            <button class="chip" data-range="month:2026-06" type="button">June 2026</button>
+          </div>
+          <div class="legend">
+            <span class="legend-item"><span class="legend-dot morning"></span>Morning</span>
+            <span class="legend-item"><span class="legend-dot midday"></span>Midday</span>
+            <span class="legend-item"><span class="legend-dot evening"></span>Evening</span>
+            <span class="legend-item"><span class="legend-dot d1"></span>Division 1</span>
+            <span class="legend-item"><span class="legend-dot d2"></span>Division 2</span>
+            <span class="legend-item"><span class="legend-dot t20"></span>T20</span>
+          </div>
+        </div>
+
+        <div class="filters">
+          <div class="filter">
+            <span>Division</span>
+            <select id="divisionFilter"></select>
+          </div>
+          <div class="filter">
+            <span>Tournament</span>
+            <select id="tournamentFilter"></select>
+          </div>
+          <div class="filter">
+            <span>Team</span>
+            <select id="teamFilter"></select>
+          </div>
+          <div class="filter">
+            <span>Preset</span>
+            <select id="presetFilter">
+              <option value="all" selected>All Teams</option>
+            </select>
+          </div>
+          <div class="filter">
+            <span>Session</span>
+            <select id="sessionFilter"></select>
+          </div>
+          <div class="filter">
+            <span>Ground</span>
+            <select id="groundFilter"></select>
+          </div>
+          <div class="filter">
+            <span>From</span>
+            <input id="dateFrom" type="date" />
+          </div>
+          <div class="filter">
+            <span>To</span>
+            <input id="dateTo" type="date" />
+          </div>
+          <div class="filter">
+            <span>Show</span>
+            <select id="pageSize">
+              <option value="50">50</option>
+              <option value="100">100</option>
+              <option value="200">200</option>
+              <option value="all" selected>All</option>
+            </select>
+          </div>
+          <div class="filter">
+            <span>Search</span>
+            <input id="searchInput" type="text" placeholder="Type a team or ground..." />
+          </div>
+          <div class="filter">
+            <span>Sort</span>
+            <select id="sortBy">
+              <option value="date_asc" selected>Date (Earliest)</option>
+              <option value="date_desc">Date (Latest)</option>
+              <option value="team_asc">Team (A-Z)</option>
+              <option value="ground_asc">Ground (A-Z)</option>
+            </select>
+          </div>
+          <div class="filter">
+            <span>Density</span>
+            <select id="densityToggle">
+              <option value="comfortable" selected>Comfortable</option>
+              <option value="compact">Compact</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="summary">
+          <div>
+            <span class="summary-label">Matches</span>
+            <span id="matchCount" class="summary-value">0</span>
+          </div>
+          <div>
+            <span class="summary-label">Weekends</span>
+            <span id="weekendCount" class="summary-value">0</span>
+          </div>
+          <div>
+            <span class="summary-label">Grounds</span>
+            <span id="groundCount" class="summary-value">0</span>
+          </div>
+          <div>
+            <span class="summary-label">Showing</span>
+            <span id="showingCount" class="summary-value">0</span>
+          </div>
+          <div>
+            <span class="summary-label">Busiest Weekend</span>
+            <span id="busiestWeekend" class="summary-value">-</span>
+          </div>
+          <div class="actions">
+            <button id="downloadCsv" class="ghost">Download CSV</button>
+            <button id="exportIcs" class="ghost">Export Calendar</button>
+            <button id="printSchedule" class="ghost">Print View</button>
+            <button id="resetFilters" class="ghost">Reset Filters</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Division</th>
+              <th>Match Type</th>
+              <th>Date</th>
+              <th>Time</th>
+              <th>Team One</th>
+              <th>Team Two</th>
+              <th>Ground</th>
+              <th>Session</th>
+            </tr>
+          </thead>
+          <tbody id="scheduleBody"></tbody>
+        </table>
+      </section>
+
+      <section id="scheduleCards" class="schedule-cards"></section>
+
+      <section class="results-section" id="resultsFixtures">
+        <div class="section-title">
+          <h2>Results & Fixtures</h2>
+          <p>Browse fixtures and completed results by tournament.</p>
+        </div>
+        <div class="view-tabs" id="resultsTabs">
+          <button class="tab active" data-view="fixtures" type="button">Fixtures</button>
+          <button class="tab" data-view="results" type="button">Results</button>
+        </div>
+        <div class="tab-row" id="rfTournamentTabs">
+          <button class="tab active" data-tournament="D1_WHITE" type="button">Yash Premier League</button>
+          <button class="tab" data-tournament="D1_RED" type="button">Division 1 Red Ball</button>
+          <button class="tab" data-tournament="D2_WHITE" type="button">Division 2 White Ball</button>
+          <button class="tab" data-tournament="D2_RED" type="button">Division 2 Red Ball</button>
+          <button class="tab" data-tournament="T20" type="button">T20 League</button>
+        </div>
+        <div id="fixturesList" class="rf-list"></div>
+        <div id="resultsList" class="rf-list hidden"></div>
+      </section>
+
+      <section class="standings-section" id="standings">
+        <div class="section-title">
+          <h2>Standings & Points</h2>
+          <p>Per-tournament standings will appear once results are linked.</p>
+        </div>
+        <div class="tab-row" id="standingsTabs">
+          <button class="tab active" data-tournament="D1_WHITE" type="button">Yash Premier League</button>
+          <button class="tab" data-tournament="D1_RED" type="button">Division 1 Red Ball</button>
+          <button class="tab" data-tournament="D2_WHITE" type="button">Division 2 White Ball</button>
+          <button class="tab" data-tournament="D2_RED" type="button">Division 2 Red Ball</button>
+          <button class="tab" data-tournament="T20" type="button">T20 League</button>
+        </div>
+        <div class="standings-table">
+          <table>
+            <thead>
+              <tr>
+                <th>Team</th>
+                <th>Played</th>
+                <th>Won</th>
+                <th>Lost</th>
+                <th>Points</th>
+                <th>NRR</th>
+              </tr>
+            </thead>
+            <tbody id="standingsBody"></tbody>
+          </table>
+          <div id="standingsEmpty" class="empty-state">No standings yet.</div>
+        </div>
+      </section>
+
+      <section class="change-log" id="changeLog"></section>
+
+      <section class="admin-panel" id="adminPanel">
+        <div class="admin-header">
+          <h3>Admin Updates</h3>
+          <button id="lockAdmin" class="ghost" type="button">Lock</button>
+        </div>
+        <p>Upload a new schedule CSV to update the view for this session.</p>
+        <label class="admin-upload">
+          <input id="adminUpload" type="file" accept=".csv" />
+          Upload New Schedule
+        </label>
+        <div class="admin-divider"></div>
+        <h4>Link CricClubs Scorecard</h4>
+        <form id="scorecardForm" class="scorecard-form">
+          <label>
+            Match #
+            <input id="scoreMatchId" type="number" min="1" placeholder="Match ID from schedule" />
+          </label>
+          <label>
+            CricClubs URL
+            <input id="scoreUrl" type="url" placeholder="https://cricclubs.com/..." />
+          </label>
+          <label>
+            Result Summary
+            <input id="scoreResult" type="text" placeholder="Team A won by 18 runs" />
+          </label>
+          <label>
+            Result Type
+            <select id="scoreResultType">
+              <option value="win" selected>Win / Loss</option>
+              <option value="tie">Tie</option>
+              <option value="no_result">No Result</option>
+              <option value="abandoned">Abandoned</option>
+            </select>
+          </label>
+          <label>
+            Winner
+            <select id="scoreWinner">
+              <option value="" selected>Select winner</option>
+              <option value="teamOne">Team One</option>
+              <option value="teamTwo">Team Two</option>
+              <option value="tie">Tie</option>
+              <option value="no_result">No Result</option>
+            </select>
+          </label>
+          <div class="score-grid">
+            <label>
+              Team One Runs
+              <input id="scoreTeamOneRuns" type="number" min="0" placeholder="Runs" />
+            </label>
+            <label>
+              Team One Overs
+              <input id="scoreTeamOneOvers" type="text" placeholder="19.4" />
+            </label>
+            <label>
+              Team Two Runs
+              <input id="scoreTeamTwoRuns" type="number" min="0" placeholder="Runs" />
+            </label>
+            <label>
+              Team Two Overs
+              <input id="scoreTeamTwoOvers" type="text" placeholder="20.0" />
+            </label>
+          </div>
+          <p class="admin-note">Overs format is cricket style (e.g., 19.4 = 19 overs + 4 balls).</p>
+          <button class="primary" type="submit">Save Link</button>
+          <button id="clearScorecards" class="ghost" type="button">Clear Links</button>
+        </form>
+
+        <div class="admin-divider"></div>
+        <h4>Communication Tools</h4>
+        <p class="admin-note">
+          Generate reminder files and shareable cards. Auto-send requires email or WhatsApp provider setup.
+        </p>
+        <div class="admin-actions">
+          <button id="exportReminders" class="ghost" type="button">Download Reminder CSV</button>
+        </div>
+      </section>
+
+      <button id="backToTop" class="back-to-top" type="button">Back to top</button>
+
+      <footer class="site-footer">
+        <div>
+          <p class="footer-title">Midwest Cricket Conference</p>
+          <p class="footer-sub">Schedule refreshed weekly during the season.</p>
+        </div>
+        <div class="footer-links">
+          <a href="index.html">Home</a>
+          <a href="index.html#about">About</a>
+          <a href="index.html#clubs">Clubs</a>
+          <a href="index.html#contact">Contact</a>
+          <button id="unlockAdmin" class="link-button" type="button">Admin Access</button>
+        </div>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

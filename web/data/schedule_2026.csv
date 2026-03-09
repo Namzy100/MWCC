@@ -1,0 +1,385 @@
+#,Series,Division,Match Type,Date,Time,Team One,Team Two,Ground
+1,Leather Ball 2026,Elite White Ball Division II,League,04/18/2026,14:00,Black Caps,Rising Starz Youth,WP 1
+2,Leather Ball 2026,Blast T20,League,04/18/2026,15:30,Midwest Bison,Shaheens of Pakistan,Gurnee
+3,Leather Ball 2026,Blast T20,League,04/18/2026,08:30,The Underdawg XI,Chicago Saifee Warriors,Hanover Park
+4,Leather Ball 2026,Elite White Ball Division II,League,04/18/2026,08:30,Stars,Oh Gawd XI,Skoke East
+5,Leather Ball 2026,Elite White Ball Division II,League,04/18/2026,08:30,Kings,Spartans,Skoke West
+6,Leather Ball 2026,RedBall Division II,League,04/19/2026,14:00,Midwest Blizzards,Chicago Tigers,South Barrington OLD
+7,Leather Ball 2026,Blast T20,League,04/19/2026,12:00,Knotty 40,The Underdawg XI,Vernon Hills
+8,Leather Ball 2026,Elite White Ball Division II,League,04/19/2026,08:30,Black Caps,South Barrington Cricket Club,South Barrington OLD
+9,Leather Ball 2026,Blast T20,League,04/19/2026,08:30,Brothers XI,Chicago Saifee Warriors,Vernon Hills
+10,Leather Ball 2026,Blast T20,League,04/25/2026,15:30,The Underdawg XI,Shaheens of Pakistan,Hanover Park
+11,Leather Ball 2026,Elite White Ball Division II,League,04/25/2026,08:30,Rising Starz Youth,Spartans,WP 2
+12,Leather Ball 2026,Elite White Ball Division II,League,04/25/2026,08:30,Oh Gawd XI,Black Caps,Vernon Hills
+13,Leather Ball 2026,Blast T20,League,04/26/2026,12:00,Chicago Saifee Warriors,Midwest Bison,Gurnee
+14,Leather Ball 2026,RedBall Division II,League,04/26/2026,08:30,Black Caps,Chicago Tigers,Crescent
+15,Leather Ball 2026,Elite White Ball Division II,League,04/26/2026,08:30,South Barrington Cricket Club,Stars,South Barrington OLD
+16,Leather Ball 2026,Blast T20,League,04/26/2026,08:30,Brothers XI,Knotty 40,"James Park, Evanston"
+17,Leather Ball 2026,Yash Premier League,League,05/02/2026,14:00,Evanston CC,Pak Gymkhana,Hanover Park
+18,Leather Ball 2026,Yash Premier League,League,05/02/2026,14:00,DeePark Dynamites,SBCC Slayers,"James Park, Evanston"
+19,Leather Ball 2026,Yash Premier League,League,05/02/2026,14:00,Anjuman,Panthers,Vernon Hills
+20,Leather Ball 2026,Blast T20,League,05/02/2026,15:30,Desi Tigers,Challengers,Gurnee
+21,Leather Ball 2026,Blast T20,League,05/02/2026,12:00,Knotty 40,Midwest Bison,Gurnee
+22,Leather Ball 2026,Elite White Ball Division II,League,05/02/2026,08:30,Spartans,BPL Youth,Gurnee
+23,Leather Ball 2026,Elite White Ball Division II,League,05/02/2026,08:30,PUCC,Smashers,WP 1
+24,Leather Ball 2026,Elite White Ball Division II,League,05/02/2026,08:30,Kings,CYCA Underdogs,Heritage Park
+25,Leather Ball 2026,Elite White Ball Division II,League,05/02/2026,08:30,Midwest Vipers,DeePark Dynamites,Skoke East
+26,Leather Ball 2026,Elite White Ball Division II,League,05/02/2026,08:30,Rising Starz Youth,Schaumburg Strikers,Skoke West
+27,Leather Ball 2026,RedBall Division II,League,05/02/2026,08:30,Black Caps,Chicago Warriors,"James Park, Evanston"
+28,Leather Ball 2026,RedBall Division II,League,05/02/2026,08:30,Midwest Blizzards,Club Cricket of Chicago,Vernon Hills
+29,Leather Ball 2026,RedBall Division II,League,05/03/2026,14:00,CYCA Underdogs,Black Caps,Hanover Park
+30,Leather Ball 2026,RedBall Division II,League,05/03/2026,14:00,Midwest Blizzards,Evanston CC,"James Park, Evanston"
+31,Leather Ball 2026,RedBall Premier,League,05/03/2026,14:00,Club Cricket of Chicago,SBCC Slayers,Vernon Hills
+32,Leather Ball 2026,Blast T20,League,05/03/2026,15:30,The Underdawg XI,DeePark Dynamites,Vernon Hills
+33,Leather Ball 2026,Blast T20,League,05/03/2026,12:00,Brothers XI,Midwest Bison,Gurnee
+34,Leather Ball 2026,Blast T20,League,05/03/2026,12:00,Chicago Saifee Warriors,Desi Tigers,Vernon Hills
+35,Leather Ball 2026,RedBall Premier,League,05/03/2026,08:30,Milwaukee Panthers,Streamwood Cricket Club,Plainfield Northwest
+36,Leather Ball 2026,RedBall Division II,League,05/03/2026,08:30,Chicago Tigers,Club Cricket of Chicago,Crescent
+37,Leather Ball 2026,Elite White Ball Division II,League,05/03/2026,08:30,South Barrington Cricket Club,Midwest Vipers,South Barrington OLD
+38,Leather Ball 2026,RedBall Premier,League,05/03/2026,08:30,Challengers,Cardinals United,Hanover Park
+39,Leather Ball 2026,Elite White Ball Division II,League,05/03/2026,08:30,Deccan Heroes,Chicago Warriors,Skoke East
+40,Leather Ball 2026,Elite White Ball Division II,League,05/09/2026,14:00,CYCA Underdogs,Schaumburg Strikers,Naperville East
+41,Leather Ball 2026,Yash Premier League,League,05/09/2026,14:00,Anjuman,Kings XI Chicago,WP 1
+42,Leather Ball 2026,Yash Premier League,League,05/09/2026,14:00,Evanston CC,Midwest CC,Heritage Park
+43,Leather Ball 2026,Yash Premier League,League,05/09/2026,14:00,Panthers,Pak Gymkhana,"James Park, Evanston"
+44,Leather Ball 2026,Elite White Ball Division II,League,05/09/2026,14:00,Warriors,Bullfincherz,Vernon Hills
+45,Leather Ball 2026,Blast T20,League,05/09/2026,15:30,Challengers,The Underdawg XI,Gurnee
+46,Leather Ball 2026,Blast T20,League,05/09/2026,15:30,Club Cricket of Chicago,Shaheens of Pakistan,Tippecone Park
+47,Leather Ball 2026,Yash Premier League,League,05/09/2026,08:30,DeePark Dynamites,Deccan Mavericks,WP 1
+48,Leather Ball 2026,RedBall Division II,League,05/09/2026,08:30,Chicago Warriors,Club Cricket of Chicago,Tippecone Park
+49,Leather Ball 2026,Yash Premier League,League,05/09/2026,08:30,Barrington Crescent Cricket Club,Dolphins,Crescent
+50,Leather Ball 2026,RedBall Division II,League,05/10/2026,14:00,Chicago Tigers,DMavs Stallions,Gurnee
+51,Leather Ball 2026,Elite White Ball Division II,League,05/10/2026,14:00,Warriors,Deccan Heroes,balstrod b.brook
+52,Leather Ball 2026,RedBall Premier,League,05/10/2026,14:00,Milwaukee Panthers,Challengers,Tippecone Park
+53,Leather Ball 2026,RedBall Division II,League,05/10/2026,14:00,Club Cricket of Chicago,Evanston CC,"James Park, Evanston"
+54,Leather Ball 2026,RedBall Division II,League,05/10/2026,14:00,Chicago Warriors,Black Caps,Vernon Hills
+55,Leather Ball 2026,RedBall Division II,League,05/10/2026,08:30,CYCA Underdogs,Club Cricket of Chicago,Gurnee
+56,Leather Ball 2026,RedBall Premier,League,05/10/2026,08:30,Deccan Mavericks,Midwest CC,Plainfield Northwest
+57,Leather Ball 2026,Elite White Ball Division II,League,05/10/2026,08:30,Bullfincherz,AAA,Plainfield Grande Park old
+58,Leather Ball 2026,RedBall Premier,League,05/10/2026,08:30,Cardinals United,Rovers,WP 1
+59,Leather Ball 2026,Elite White Ball Division II,League,05/10/2026,08:30,South Barrington Cricket Club,Dominators,South Barrington OLD
+60,Leather Ball 2026,Elite White Ball Division II,League,05/10/2026,08:30,Oh Gawd XI,Hawks,Vernon Hills
+61,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,14:00,Midwest Vipers,Schaumburg Strikers,Naperville East
+62,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,14:00,Black Caps,Spartans,Tippecone Park
+63,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,14:00,Stars,BPL Youth,Heritage Park
+64,Leather Ball 2026,Yash Premier League,League,05/16/2026,14:00,Anjuman,Evanston CC,Skoke West
+65,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,14:00,Warriors,DeePark Dynamites,"James Park, Evanston"
+66,Leather Ball 2026,Blast T20,League,05/16/2026,15:30,Shaheens of Pakistan,Desi Tigers,Vernon Hills
+67,Leather Ball 2026,Blast T20,League,05/16/2026,12:00,Knotty 40,Club Cricket of Chicago,WP 1
+68,Leather Ball 2026,Yash Premier League,League,05/16/2026,08:30,Kings XI Chicago,CYCA Elite,Tigers Park
+69,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,08:30,Rising Starz Youth,DMavs Stallions,Naperville East
+70,Leather Ball 2026,Yash Premier League,League,05/16/2026,08:30,DeePark Dynamites,Panthers,Plainfield Northwest
+71,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,08:30,Bullfincherz,CYCA Underdogs,WP 2
+72,Leather Ball 2026,Yash Premier League,League,05/16/2026,08:30,Deccan Mavericks,Barrington Crescent Cricket Club,Crescent
+73,Leather Ball 2026,Elite White Ball Division II,League,05/16/2026,08:30,Chicago Warriors,Kings,"James Park, Evanston"
+74,Leather Ball 2026,RedBall Division II,League,05/17/2026,14:00,Chicago Tigers,Club Cricket of Chicago,Plainfield Grande Park old
+75,Leather Ball 2026,RedBall Division II,League,05/17/2026,14:00,Midwest Blizzards,CYCA Underdogs,Skoke East
+76,Leather Ball 2026,RedBall Premier,League,05/17/2026,14:00,SBCC Slayers,Deccan Mavericks,Skoke West
+77,Leather Ball 2026,RedBall Division II,League,05/17/2026,14:00,DMavs Stallions,Evanston CC,"James Park, Evanston"
+78,Leather Ball 2026,Blast T20,League,05/17/2026,15:30,Midwest Bison,Chicago Saifee Warriors,Gurnee
+79,Leather Ball 2026,Blast T20,League,05/17/2026,15:30,The Underdawg XI,DeePark Dynamites,Skoke East
+80,Leather Ball 2026,Blast T20,League,05/17/2026,15:30,Midwest CC,Desi Tigers,Vernon Hills
+81,Leather Ball 2026,RedBall Premier,League,05/17/2026,08:30,CYCA Elite,Club Cricket of Chicago,Tigers Park
+82,Leather Ball 2026,RedBall Premier,League,05/17/2026,08:30,Midwest CC,Rovers,Naperville East
+83,Leather Ball 2026,Elite White Ball Division II,League,05/17/2026,08:30,Deccan Heroes,Black Caps,Plainfield Northwest
+84,Leather Ball 2026,Elite White Ball Division II,League,05/17/2026,08:30,AAA,Rising Starz Youth,South Barrington OLD
+85,Leather Ball 2026,RedBall Premier,League,05/17/2026,08:30,Streamwood Cricket Club,Challengers,Vernon Hills
+86,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,14:00,DMavs Stallions,Bullfincherz,Naperville East
+87,Leather Ball 2026,Yash Premier League,League,05/30/2026,14:00,Dolphins,Anjuman,Plainfield Grande Park old
+88,Leather Ball 2026,Yash Premier League,League,05/30/2026,14:00,Pak Gymkhana,Kings XI Chicago,South Barrington OLD
+89,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,14:00,Spartans,PUCC,Skoke West
+90,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,14:00,Rising Starz Youth,DeePark Dynamites,"James Park, Evanston"
+91,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,14:00,Chicago Warriors,Warriors,Vernon Hills
+92,Leather Ball 2026,Blast T20,League,05/30/2026,15:30,Midwest CC,The Underdawg XI,Heritage Park
+93,Leather Ball 2026,Blast T20,League,05/30/2026,15:30,Shaheens of Pakistan,Desi Tigers,Skoke East
+94,Leather Ball 2026,Yash Premier League,League,05/30/2026,08:30,CYCA Elite,Evanston CC,Tigers Park
+95,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,08:30,CYCA Underdogs,Stars,Crescent
+96,Leather Ball 2026,Yash Premier League,League,05/30/2026,08:30,Panthers,Midwest CC,Skoke East
+97,Leather Ball 2026,Yash Premier League,League,05/30/2026,08:30,Deccan Mavericks,SBCC Slayers,Skoke West
+98,Leather Ball 2026,Elite White Ball Division II,League,05/30/2026,08:30,Oh Gawd XI,Smashers,Vernon Hills
+99,Leather Ball 2026,Elite White Ball Division II,League,05/31/2026,14:00,Stars,Wildcats,Gurnee
+100,Leather Ball 2026,RedBall Division II,League,05/31/2026,14:00,CYCA Underdogs,Midwest Blizzards,Heritage Park
+101,Leather Ball 2026,Elite White Ball Division II,League,05/31/2026,14:00,DeePark Dynamites,Midwest Vipers,Skoke West
+102,Leather Ball 2026,RedBall Division II,League,05/31/2026,14:00,Evanston CC,Chicago Tigers,"James Park, Evanston"
+103,Leather Ball 2026,Elite White Ball Division II,League,05/31/2026,14:00,Bullfincherz,Deccan Heroes,Vernon Hills
+104,Leather Ball 2026,Blast T20,League,05/31/2026,15:30,Club Cricket of Chicago,Midwest CC,Tippecone Park
+105,Leather Ball 2026,RedBall Premier,League,05/31/2026,08:30,CYCA Elite,Deccan Mavericks,Tigers Park
+106,Leather Ball 2026,Elite White Ball Division II,League,05/31/2026,08:30,AAA,Rising Starz Youth,Crescent
+107,Leather Ball 2026,RedBall Premier,League,05/31/2026,08:30,SBCC Slayers,Midwest CC,South Barrington OLD
+108,Leather Ball 2026,RedBall Division II,League,05/31/2026,08:30,Chicago Warriors,DMavs Stallions,Skoke West
+109,Leather Ball 2026,RedBall Premier,League,05/31/2026,08:30,Club Cricket of Chicago,Milwaukee Panthers,"James Park, Evanston"
+110,Leather Ball 2026,Elite White Ball Division II,League,05/31/2026,08:30,Hawks,DeePark Dynamites,Vernon Hills
+111,Leather Ball 2026,Yash Premier League,League,06/06/2026,14:00,Deccan Mavericks,CYCA Elite,Tigers Park
+112,Leather Ball 2026,Elite White Ball Division II,League,06/06/2026,14:00,BPL Youth,DMavs Stallions,Naperville East
+113,Leather Ball 2026,Yash Premier League,League,06/06/2026,14:00,Panthers,Pak Gymkhana,balstrod b.brook
+114,Leather Ball 2026,Yash Premier League,League,06/06/2026,14:00,Dolphins,Evanston CC,Hanover Park
+115,Leather Ball 2026,Yash Premier League,League,06/06/2026,14:00,SBCC Slayers,DeePark Dynamites,Heritage Park
+116,Leather Ball 2026,Yash Premier League,League,06/06/2026,14:00,Midwest CC,Anjuman,Vernon Hills
+117,Leather Ball 2026,Blast T20,League,06/06/2026,15:30,Midwest CC,The Underdawg XI,Skoke East
+118,Leather Ball 2026,Blast T20,League,06/06/2026,15:30,Shaheens of Pakistan,Club Cricket of Chicago,Vernon Hills
+119,Leather Ball 2026,Blast T20,League,06/06/2026,12:00,Challengers,Chicago Saifee Warriors,Gurnee
+120,Leather Ball 2026,Elite White Ball Division II,League,06/06/2026,08:30,Kings,Spartans,Plainfield Northwest
+121,Leather Ball 2026,Yash Premier League,League,06/06/2026,08:30,Kings XI Chicago,Barrington Crescent Cricket Club,Crescent
+122,Leather Ball 2026,Blast T20,League,06/06/2026,08:30,DeePark Dynamites,Desi Tigers,Hanover Park
+123,Leather Ball 2026,Elite White Ball Division II,League,06/06/2026,08:30,Chicago Warriors,CYCA Underdogs,Heritage Park
+124,Leather Ball 2026,Elite White Ball Division II,League,06/06/2026,08:30,Schaumburg Strikers,Smashers,Skoke West
+125,Leather Ball 2026,Elite White Ball Division II,League,06/06/2026,08:30,Bullfincherz,Midwest Vipers,"James Park, Evanston"
+126,Leather Ball 2026,Elite White Ball Division II,League,06/07/2026,14:00,Wildcats,Warriors,Gurnee
+127,Leather Ball 2026,RedBall Premier,League,06/07/2026,14:00,Streamwood Cricket Club,Deccan Mavericks,Heritage Park
+128,Leather Ball 2026,Blast T20,League,06/07/2026,15:30,Club Cricket of Chicago,Brothers XI,"James Park, Evanston"
+129,Leather Ball 2026,Blast T20,League,06/07/2026,15:30,Midwest CC,Desi Tigers,Vernon Hills
+130,Leather Ball 2026,RedBall Premier,League,06/07/2026,08:30,CYCA Elite,Club Cricket of Chicago,Tigers Park
+131,Leather Ball 2026,Elite White Ball Division II,League,06/07/2026,08:30,DMavs Stallions,AAA,Naperville East
+132,Leather Ball 2026,RedBall Premier,League,06/07/2026,08:30,Challengers,Rovers,Plainfield Grande Park old
+133,Leather Ball 2026,Elite White Ball Division II,League,06/07/2026,08:30,Smashers,Deccan Heroes,Tippecone Park
+134,Leather Ball 2026,RedBall Premier,League,06/07/2026,08:30,Cardinals United,Midwest CC,South Barrington OLD
+135,Leather Ball 2026,RedBall Division II,League,06/07/2026,08:30,CYCA Underdogs,Chicago Warriors,Heritage Park
+136,Leather Ball 2026,RedBall Premier,League,06/07/2026,08:30,SBCC Slayers,Milwaukee Panthers,Skoke East
+137,Leather Ball 2026,Elite White Ball Division II,League,06/07/2026,08:30,Hawks,Schaumburg Strikers,Vernon Hills
+138,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,14:00,BPL Youth,Oh Gawd XI,Hanover Park
+139,Leather Ball 2026,Yash Premier League,League,06/13/2026,14:00,Pak Gymkhana,SBCC Slayers,Skoke West
+140,Leather Ball 2026,Yash Premier League,League,06/13/2026,14:00,Midwest CC,Evanston CC,"James Park, Evanston"
+141,Leather Ball 2026,Blast T20,League,06/13/2026,15:30,Shaheens of Pakistan,DeePark Dynamites,Tippecone Park
+142,Leather Ball 2026,Yash Premier League,League,06/13/2026,08:30,CYCA Elite,DeePark Dynamites,Tigers Park
+143,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,Spartans,Stars,Gurnee
+144,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,Dominators,DMavs Stallions,Naperville East
+145,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,Smashers,Schaumburg Strikers,WP 2
+146,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,PUCC,Bullfincherz,Hanover Park
+147,Leather Ball 2026,Yash Premier League,League,06/13/2026,08:30,Kings XI Chicago,Dolphins,Skoke East
+148,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,Chicago Warriors,CYCA Underdogs,Skoke West
+149,Leather Ball 2026,Elite White Ball Division II,League,06/13/2026,08:30,Midwest Vipers,Warriors,"James Park, Evanston"
+150,Leather Ball 2026,Elite White Ball Division II,League,06/14/2026,14:00,Kings,Wildcats,Gurnee
+151,Leather Ball 2026,Elite White Ball Division II,League,06/14/2026,14:00,Midwest Vipers,Deccan Heroes,Heritage Park
+152,Leather Ball 2026,RedBall Division II,League,06/14/2026,14:00,Midwest Blizzards,Chicago Warriors,Skoke West
+153,Leather Ball 2026,RedBall Division II,League,06/14/2026,14:00,Club Cricket of Chicago,DMavs Stallions,Vernon Hills
+154,Leather Ball 2026,Blast T20,League,06/14/2026,15:30,Midwest CC,Midwest Bison,Gurnee
+155,Leather Ball 2026,Blast T20,League,06/14/2026,15:30,The Underdawg XI,Knotty 40,Vernon Hills
+156,Leather Ball 2026,RedBall Premier,League,06/14/2026,08:30,Midwest CC,CYCA Elite,Tigers Park
+157,Leather Ball 2026,RedBall Premier,League,06/14/2026,08:30,Rovers,SBCC Slayers,Gurnee
+158,Leather Ball 2026,Elite White Ball Division II,League,06/14/2026,08:30,Smashers,South Barrington Cricket Club,South Barrington OLD
+159,Leather Ball 2026,RedBall Premier,League,06/14/2026,08:30,Milwaukee Panthers,Club Cricket of Chicago,Hanover Park
+160,Leather Ball 2026,RedBall Premier,League,06/14/2026,08:30,Challengers,Cardinals United,"James Park, Evanston"
+161,Leather Ball 2026,Elite White Ball Division II,League,06/14/2026,08:30,Hawks,AAA,Vernon Hills
+162,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,14:00,PUCC,Oh Gawd XI,balstrod b.brook
+163,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,14:00,BPL Youth,Stars,WP 2
+164,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,14:00,Kings,Warriors,Crescent
+165,Leather Ball 2026,Yash Premier League,League,06/20/2026,14:00,Midwest CC,Pak Gymkhana,Skoke West
+166,Leather Ball 2026,Yash Premier League,League,06/20/2026,14:00,Anjuman,SBCC Slayers,Vernon Hills
+167,Leather Ball 2026,Blast T20,League,06/20/2026,15:30,Challengers,Midwest Bison,Gurnee
+168,Leather Ball 2026,Blast T20,League,06/20/2026,12:00,DeePark Dynamites,Knotty 40,Vernon Hills
+169,Leather Ball 2026,Yash Premier League,League,06/20/2026,08:30,Evanston CC,CYCA Elite,Tigers Park
+170,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,08:30,CYCA Underdogs,DeePark Dynamites,Tippecone Park
+171,Leather Ball 2026,Yash Premier League,League,06/20/2026,08:30,Panthers,Barrington Crescent Cricket Club,Crescent
+172,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,08:30,Dominators,Spartans,South Barrington OLD
+173,Leather Ball 2026,Elite White Ball Division II,League,06/20/2026,08:30,Black Caps,Chicago Warriors,"James Park, Evanston"
+174,Leather Ball 2026,RedBall Premier,League,06/21/2026,14:00,Deccan Mavericks,Club Cricket of Chicago,Tigers Park
+175,Leather Ball 2026,Elite White Ball Division II,League,06/21/2026,14:00,Oh Gawd XI,Wildcats,Gurnee
+176,Leather Ball 2026,Elite White Ball Division II,League,06/21/2026,14:00,DMavs Stallions,Deccan Heroes,Naperville East
+177,Leather Ball 2026,RedBall Division II,League,06/21/2026,14:00,Chicago Tigers,Black Caps,Heritage Park
+178,Leather Ball 2026,Blast T20,League,06/21/2026,15:30,DeePark Dynamites,Midwest CC,"James Park, Evanston"
+179,Leather Ball 2026,RedBall Premier,League,06/21/2026,08:30,Streamwood Cricket Club,Cardinals United,Naperville East
+180,Leather Ball 2026,Elite White Ball Division II,League,06/21/2026,08:30,CYCA Underdogs,South Barrington Cricket Club,South Barrington OLD
+181,Leather Ball 2026,RedBall Premier,League,06/21/2026,08:30,Midwest CC,Rovers,Heritage Park
+182,Leather Ball 2026,Elite White Ball Division II,League,06/21/2026,08:30,Schaumburg Strikers,AAA,Skoke East
+183,Leather Ball 2026,RedBall Premier,League,06/21/2026,08:30,Challengers,SBCC Slayers,Skoke West
+184,Leather Ball 2026,RedBall Division II,League,06/21/2026,08:30,Evanston CC,Club Cricket of Chicago,"James Park, Evanston"
+185,Leather Ball 2026,Elite White Ball Division II,League,06/21/2026,08:30,Dominators,Hawks,Vernon Hills
+186,Leather Ball 2026,Yash Premier League,League,06/27/2026,14:00,Pak Gymkhana,Anjuman,Skoke West
+187,Leather Ball 2026,Yash Premier League,League,06/27/2026,14:00,Kings XI Chicago,Deccan Mavericks,Vernon Hills
+188,Leather Ball 2026,Blast T20,League,06/27/2026,15:30,Midwest Bison,Midwest CC,Gurnee
+189,Leather Ball 2026,Blast T20,League,06/27/2026,15:30,Shaheens of Pakistan,Knotty 40,South Barrington OLD
+190,Leather Ball 2026,Blast T20,League,06/27/2026,12:00,Club Cricket of Chicago,DeePark Dynamites,Crescent
+191,Leather Ball 2026,Yash Premier League,League,06/27/2026,08:30,DeePark Dynamites,Midwest CC,Tigers Park
+192,Leather Ball 2026,Yash Premier League,League,06/27/2026,08:30,SBCC Slayers,Dolphins,WP 1
+193,Leather Ball 2026,Elite White Ball Division II,League,06/27/2026,08:30,Warriors,Chicago Warriors,WP 2
+194,Leather Ball 2026,Yash Premier League,League,06/27/2026,08:30,Barrington Crescent Cricket Club,CYCA Elite,Crescent
+195,Leather Ball 2026,Elite White Ball Division II,League,06/27/2026,08:30,Smashers,Dominators,Vernon Hills
+196,Leather Ball 2026,Elite White Ball Division II,League,06/28/2026,14:00,Deccan Heroes,Wildcats,Gurnee
+197,Leather Ball 2026,RedBall Division II,League,06/28/2026,14:00,Club Cricket of Chicago,DMavs Stallions,WP 2
+198,Leather Ball 2026,RedBall Division II,League,06/28/2026,14:00,Chicago Tigers,CYCA Underdogs,Hanover Park
+199,Leather Ball 2026,RedBall Division II,League,06/28/2026,14:00,Chicago Warriors,Evanston CC,"James Park, Evanston"
+200,Leather Ball 2026,RedBall Division II,League,06/28/2026,14:00,Black Caps,Midwest Blizzards,Vernon Hills
+201,Leather Ball 2026,Blast T20,League,06/28/2026,15:30,Desi Tigers,Knotty 40,Tippecone Park
+202,Leather Ball 2026,Blast T20,League,06/28/2026,12:00,Brothers XI,Midwest Bison,Gurnee
+203,Leather Ball 2026,Blast T20,League,06/28/2026,12:00,Chicago Saifee Warriors,DeePark Dynamites,Vernon Hills
+204,Leather Ball 2026,RedBall Premier,League,06/28/2026,08:30,Milwaukee Panthers,CYCA Elite,Tigers Park
+205,Leather Ball 2026,RedBall Premier,League,06/28/2026,08:30,Club Cricket of Chicago,Streamwood Cricket Club,Plainfield Northwest
+206,Leather Ball 2026,RedBall Premier,League,06/28/2026,08:30,Rovers,SBCC Slayers,Hanover Park
+207,Leather Ball 2026,RedBall Premier,League,06/28/2026,08:30,Midwest CC,Cardinals United,Heritage Park
+208,Leather Ball 2026,RedBall Premier,League,06/28/2026,08:30,Challengers,Deccan Mavericks,Vernon Hills
+209,Leather Ball 2026,Yash Premier League,League,07/11/2026,14:00,Panthers,Deccan Mavericks,Naperville East
+210,Leather Ball 2026,Elite White Ball Division II,League,07/11/2026,14:00,DeePark Dynamites,BPL Youth,WP 2
+211,Leather Ball 2026,Yash Premier League,League,07/11/2026,14:00,Dolphins,Kings XI Chicago,Hanover Park
+212,Leather Ball 2026,Elite White Ball Division II,League,07/11/2026,14:00,Midwest Vipers,Chicago Warriors,Heritage Park
+213,Leather Ball 2026,Elite White Ball Division II,League,07/11/2026,14:00,Bullfincherz,Dominators,Vernon Hills
+214,Leather Ball 2026,Blast T20,League,07/11/2026,15:30,Brothers XI,Shaheens of Pakistan,Vernon Hills
+215,Leather Ball 2026,Blast T20,League,07/11/2026,12:00,Midwest Bison,Challengers,Gurnee
+216,Leather Ball 2026,Elite White Ball Division II,League,07/11/2026,08:30,Oh Gawd XI,DMavs Stallions,Naperville East
+217,Leather Ball 2026,Yash Premier League,League,07/11/2026,08:30,Barrington Crescent Cricket Club,SBCC Slayers,Crescent
+218,Leather Ball 2026,RedBall Division II,League,07/11/2026,08:30,Black Caps,Midwest Blizzards,South Barrington OLD
+219,Leather Ball 2026,Elite White Ball Division II,League,07/12/2026,14:00,Wildcats,BPL Youth,Gurnee
+220,Leather Ball 2026,RedBall Division II,League,07/12/2026,14:00,CYCA Underdogs,Chicago Tigers,WP 2
+221,Leather Ball 2026,RedBall Premier,League,07/12/2026,14:00,SBCC Slayers,Milwaukee Panthers,Skoke East
+222,Leather Ball 2026,RedBall Division II,League,07/12/2026,14:00,Black Caps,Evanston CC,"James Park, Evanston"
+223,Leather Ball 2026,Blast T20,League,07/12/2026,15:30,Desi Tigers,The Underdawg XI,Tigers Park
+224,Leather Ball 2026,Blast T20,League,07/12/2026,15:30,Midwest Bison,Club Cricket of Chicago,Gurnee
+225,Leather Ball 2026,RedBall Premier,League,07/12/2026,08:30,CYCA Elite,Challengers,Tigers Park
+226,Leather Ball 2026,RedBall Premier,League,07/12/2026,08:30,Deccan Mavericks,Streamwood Cricket Club,Naperville East
+227,Leather Ball 2026,Elite White Ball Division II,League,07/12/2026,08:30,Stars,AAA,balstrod b.brook
+228,Leather Ball 2026,RedBall Premier,League,07/12/2026,08:30,Cardinals United,Rovers,WP 1
+229,Leather Ball 2026,Elite White Ball Division II,League,07/12/2026,08:30,Deccan Heroes,South Barrington Cricket Club,South Barrington OLD
+230,Leather Ball 2026,RedBall Division II,League,07/12/2026,08:30,Chicago Warriors,DMavs Stallions,"James Park, Evanston"
+231,Leather Ball 2026,Elite White Ball Division II,League,07/12/2026,08:30,Kings,Hawks,Vernon Hills
+232,Leather Ball 2026,Yash Premier League,League,07/18/2026,14:00,Dolphins,Pak Gymkhana,Tigers Park
+233,Leather Ball 2026,Elite White Ball Division II,League,07/18/2026,14:00,Oh Gawd XI,Bullfincherz,WP 2
+234,Leather Ball 2026,Yash Premier League,League,07/18/2026,14:00,Kings XI Chicago,Anjuman,Tippecone Park
+235,Leather Ball 2026,Yash Premier League,League,07/18/2026,14:00,Evanston CC,Deccan Mavericks,Heritage Park
+236,Leather Ball 2026,Elite White Ball Division II,League,07/18/2026,14:00,BPL Youth,Midwest Vipers,Skoke West
+237,Leather Ball 2026,Elite White Ball Division II,League,07/18/2026,14:00,Chicago Warriors,PUCC,Vernon Hills
+238,Leather Ball 2026,Blast T20,League,07/18/2026,15:30,Knotty 40,Club Cricket of Chicago,Vernon Hills
+239,Leather Ball 2026,Blast T20,League,07/18/2026,12:00,Desi Tigers,Club Cricket of Chicago,South Barrington OLD
+240,Leather Ball 2026,Yash Premier League,League,07/18/2026,08:30,CYCA Elite,Panthers,Tigers Park
+241,Leather Ball 2026,Yash Premier League,League,07/18/2026,08:30,SBCC Slayers,Midwest CC,WP 2
+242,Leather Ball 2026,Yash Premier League,League,07/18/2026,08:30,DeePark Dynamites,Barrington Crescent Cricket Club,Crescent
+243,Leather Ball 2026,Elite White Ball Division II,League,07/18/2026,08:30,Stars,Schaumburg Strikers,Heritage Park
+244,Leather Ball 2026,RedBall Division II,League,07/18/2026,08:30,DMavs Stallions,Black Caps,"James Park, Evanston"
+245,Leather Ball 2026,Elite White Ball Division II,League,07/18/2026,08:30,Smashers,Warriors,Vernon Hills
+246,Leather Ball 2026,Elite White Ball Division II,League,07/19/2026,14:00,DMavs Stallions,Wildcats,Gurnee
+247,Leather Ball 2026,RedBall Division II,League,07/19/2026,14:00,Evanston CC,CYCA Underdogs,"James Park, Evanston"
+248,Leather Ball 2026,RedBall Premier,League,07/19/2026,14:00,Cardinals United,Club Cricket of Chicago,Vernon Hills
+249,Leather Ball 2026,Blast T20,League,07/19/2026,15:30,DeePark Dynamites,Midwest CC,Tigers Park
+250,Leather Ball 2026,Blast T20,League,07/19/2026,15:30,Midwest Bison,Club Cricket of Chicago,Gurnee
+251,Leather Ball 2026,Blast T20,League,07/19/2026,12:00,Chicago Saifee Warriors,Brothers XI,Vernon Hills
+252,Leather Ball 2026,RedBall Premier,League,07/19/2026,08:30,CYCA Elite,Challengers,Tigers Park
+253,Leather Ball 2026,RedBall Premier,League,07/19/2026,08:30,Streamwood Cricket Club,Milwaukee Panthers,Gurnee
+254,Leather Ball 2026,Elite White Ball Division II,League,07/19/2026,08:30,Deccan Heroes,Smashers,WP 1
+255,Leather Ball 2026,Elite White Ball Division II,League,07/19/2026,08:30,South Barrington Cricket Club,Chicago Warriors,South Barrington OLD
+256,Leather Ball 2026,Elite White Ball Division II,League,07/19/2026,08:30,Warriors,AAA,Hanover Park
+257,Leather Ball 2026,RedBall Premier,League,07/19/2026,08:30,Deccan Mavericks,Rovers,Skoke East
+258,Leather Ball 2026,RedBall Premier,League,07/19/2026,08:30,SBCC Slayers,Midwest CC,"James Park, Evanston"
+259,Leather Ball 2026,Elite White Ball Division II,League,07/19/2026,08:30,Black Caps,Hawks,Vernon Hills
+260,Leather Ball 2026,Elite White Ball Division II,League,07/25/2026,14:00,Bullfincherz,Midwest Vipers,Tigers Park
+261,Leather Ball 2026,Elite White Ball Division II,League,07/25/2026,14:00,Black Caps,DMavs Stallions,Naperville East
+262,Leather Ball 2026,Yash Premier League,League,07/25/2026,14:00,Anjuman,DeePark Dynamites,WP 2
+263,Leather Ball 2026,Yash Premier League,League,07/25/2026,14:00,Pak Gymkhana,Evanston CC,Tippecone Park
+264,Leather Ball 2026,Elite White Ball Division II,League,07/25/2026,14:00,Spartans,PUCC,Vernon Hills
+265,Leather Ball 2026,Blast T20,League,07/25/2026,15:30,Chicago Saifee Warriors,Midwest CC,Tigers Park
+266,Leather Ball 2026,Blast T20,League,07/25/2026,15:30,Challengers,Shaheens of Pakistan,Gurnee
+267,Leather Ball 2026,Yash Premier League,League,07/25/2026,08:30,CYCA Elite,Dolphins,Tigers Park
+268,Leather Ball 2026,Elite White Ball Division II,League,07/25/2026,08:30,CYCA Underdogs,Dominators,WP 2
+269,Leather Ball 2026,Yash Premier League,League,07/25/2026,08:30,Barrington Crescent Cricket Club,Kings XI Chicago,Crescent
+270,Leather Ball 2026,Yash Premier League,League,07/25/2026,08:30,Deccan Mavericks,Midwest CC,Hanover Park
+271,Leather Ball 2026,Elite White Ball Division II,League,07/25/2026,08:30,DeePark Dynamites,Kings,"James Park, Evanston"
+272,Leather Ball 2026,Elite White Ball Division II,League,07/26/2026,14:00,Wildcats,Black Caps,Gurnee
+273,Leather Ball 2026,RedBall Division II,League,07/26/2026,14:00,Club Cricket of Chicago,Midwest Blizzards,Skoke West
+274,Leather Ball 2026,RedBall Division II,League,07/26/2026,14:00,Evanston CC,Chicago Warriors,"James Park, Evanston"
+275,Leather Ball 2026,Blast T20,League,07/26/2026,15:30,DeePark Dynamites,Brothers XI,Naperville East
+276,Leather Ball 2026,RedBall Premier,League,07/26/2026,08:30,Cardinals United,CYCA Elite,Tigers Park
+277,Leather Ball 2026,RedBall Premier,League,07/26/2026,08:30,Club Cricket of Chicago,Streamwood Cricket Club,WP 2
+278,Leather Ball 2026,Elite White Ball Division II,League,07/26/2026,08:30,AAA,South Barrington Cricket Club,South Barrington OLD
+279,Leather Ball 2026,RedBall Premier,League,07/26/2026,08:30,Rovers,Deccan Mavericks,Hanover Park
+280,Leather Ball 2026,RedBall Premier,League,07/26/2026,08:30,Midwest CC,Challengers,Skoke East
+281,Leather Ball 2026,RedBall Division II,League,07/26/2026,08:30,DMavs Stallions,CYCA Underdogs,Skoke West
+282,Leather Ball 2026,Elite White Ball Division II,League,07/26/2026,08:30,PUCC,Hawks,Vernon Hills
+283,Leather Ball 2026,Yash Premier League,League,08/01/2026,14:00,Kings XI Chicago,Panthers,Plainfield Northwest
+284,Leather Ball 2026,Yash Premier League,League,08/01/2026,14:00,Pak Gymkhana,DeePark Dynamites,WP 1
+285,Leather Ball 2026,Elite White Ball Division II,League,08/01/2026,14:00,Dominators,PUCC,WP 2
+286,Leather Ball 2026,Elite White Ball Division II,League,08/01/2026,14:00,Chicago Warriors,Rising Starz Youth,Crescent
+287,Leather Ball 2026,Elite White Ball Division II,League,08/01/2026,14:00,Spartans,BPL Youth,Heritage Park
+288,Leather Ball 2026,Elite White Ball Division II,League,08/01/2026,14:00,Schaumburg Strikers,Kings,Vernon Hills
+289,Leather Ball 2026,Blast T20,League,08/01/2026,15:30,Challengers,Shaheens of Pakistan,Gurnee
+290,Leather Ball 2026,Yash Premier League,League,08/01/2026,08:30,CYCA Elite,SBCC Slayers,Tigers Park
+291,Leather Ball 2026,Yash Premier League,League,08/01/2026,08:30,Deccan Mavericks,Dolphins,Plainfield Grande Park old
+292,Leather Ball 2026,Yash Premier League,League,08/01/2026,08:30,Barrington Crescent Cricket Club,Midwest CC,Crescent
+293,Leather Ball 2026,Elite White Ball Division II,League,08/01/2026,08:30,DeePark Dynamites,Smashers,Skoke West
+294,Leather Ball 2026,Elite White Ball Division II,League,08/02/2026,14:00,Wildcats,Rising Starz Youth,Gurnee
+295,Leather Ball 2026,RedBall Premier,League,08/02/2026,14:00,Streamwood Cricket Club,Midwest CC,Tippecone Park
+296,Leather Ball 2026,RedBall Premier,League,08/02/2026,14:00,Club Cricket of Chicago,Challengers,Heritage Park
+297,Leather Ball 2026,RedBall Division II,League,08/02/2026,14:00,Chicago Tigers,Evanston CC,"James Park, Evanston"
+298,Leather Ball 2026,RedBall Premier,League,08/02/2026,14:00,Milwaukee Panthers,Deccan Mavericks,Vernon Hills
+299,Leather Ball 2026,Blast T20,League,08/02/2026,15:30,Midwest CC,Brothers XI,Vernon Hills
+300,Leather Ball 2026,RedBall Premier,League,08/02/2026,08:30,CYCA Elite,SBCC Slayers,Tigers Park
+301,Leather Ball 2026,Elite White Ball Division II,League,08/02/2026,08:30,Schaumburg Strikers,Midwest Vipers,Gurnee
+302,Leather Ball 2026,RedBall Division II,League,08/02/2026,08:30,Club Cricket of Chicago,Chicago Warriors,Crescent
+303,Leather Ball 2026,Elite White Ball Division II,League,08/02/2026,08:30,AAA,DeePark Dynamites,Hanover Park
+304,Leather Ball 2026,RedBall Division II,League,08/02/2026,08:30,DMavs Stallions,Midwest Blizzards,"James Park, Evanston"
+305,Leather Ball 2026,Elite White Ball Division II,League,08/02/2026,08:30,Hawks,Black Caps,Vernon Hills
+306,Leather Ball 2026,Yash Premier League,League,08/08/2026,14:00,Anjuman,DeePark Dynamites,Tigers Park
+307,Leather Ball 2026,Elite White Ball Division II,League,08/08/2026,14:00,BPL Youth,DMavs Stallions,Naperville East
+308,Leather Ball 2026,Yash Premier League,League,08/08/2026,14:00,Midwest CC,Deccan Mavericks,WP 1
+309,Leather Ball 2026,Elite White Ball Division II,League,08/08/2026,14:00,PUCC,CYCA Underdogs,South Barrington OLD
+310,Leather Ball 2026,Yash Premier League,League,08/08/2026,14:00,Dolphins,Panthers,Vernon Hills
+311,Leather Ball 2026,Blast T20,League,08/08/2026,12:00,The Underdawg XI,Challengers,Gurnee
+312,Leather Ball 2026,Yash Premier League,League,08/08/2026,08:30,SBCC Slayers,CYCA Elite,Tigers Park
+313,Leather Ball 2026,Elite White Ball Division II,League,08/08/2026,08:30,DeePark Dynamites,Black Caps,Plainfield Grande Park old
+314,Leather Ball 2026,Elite White Ball Division II,League,08/08/2026,08:30,Schaumburg Strikers,Dominators,WP 1
+315,Leather Ball 2026,Yash Premier League,League,08/08/2026,08:30,Evanston CC,Barrington Crescent Cricket Club,Crescent
+316,Leather Ball 2026,Elite White Ball Division II,League,08/08/2026,08:30,Rising Starz Youth,Kings,Skoke West
+317,Leather Ball 2026,Elite White Ball Division II,League,08/09/2026,14:00,Dominators,Wildcats,Gurnee
+318,Leather Ball 2026,RedBall Premier,League,08/09/2026,14:00,Cardinals United,Milwaukee Panthers,WP 1
+319,Leather Ball 2026,RedBall Division II,League,08/09/2026,14:00,Black Caps,DMavs Stallions,Hanover Park
+320,Leather Ball 2026,RedBall Premier,League,08/09/2026,14:00,Club Cricket of Chicago,Midwest CC,Heritage Park
+321,Leather Ball 2026,RedBall Premier,League,08/09/2026,14:00,Challengers,SBCC Slayers,Skoke West
+322,Leather Ball 2026,RedBall Division II,League,08/09/2026,14:00,Evanston CC,CYCA Underdogs,"James Park, Evanston"
+323,Leather Ball 2026,RedBall Division II,League,08/09/2026,14:00,Chicago Warriors,Chicago Tigers,Vernon Hills
+324,Leather Ball 2026,Blast T20,League,08/09/2026,15:30,Club Cricket of Chicago,The Underdawg XI,"James Park, Evanston"
+325,Leather Ball 2026,Blast T20,League,08/09/2026,15:30,Knotty 40,Midwest CC,Vernon Hills
+326,Leather Ball 2026,Blast T20,League,08/09/2026,12:00,Desi Tigers,Brothers XI,Vernon Hills
+327,Leather Ball 2026,RedBall Premier,League,08/09/2026,08:30,Deccan Mavericks,CYCA Elite,Tigers Park
+328,Leather Ball 2026,Elite White Ball Division II,League,08/09/2026,08:30,AAA,Bullfincherz,Gurnee
+329,Leather Ball 2026,Elite White Ball Division II,League,08/09/2026,08:30,Smashers,Oh Gawd XI,Tippecone Park
+330,Leather Ball 2026,Elite White Ball Division II,League,08/09/2026,08:30,Spartans,South Barrington Cricket Club,South Barrington OLD
+331,Leather Ball 2026,RedBall Premier,League,08/09/2026,08:30,Rovers,Streamwood Cricket Club,"James Park, Evanston"
+332,Leather Ball 2026,Elite White Ball Division II,League,08/09/2026,08:30,Hawks,Stars,Vernon Hills
+333,Leather Ball 2026,Yash Premier League,League,08/15/2026,14:00,Evanston CC,Kings XI Chicago,Gurnee
+334,Leather Ball 2026,Elite White Ball Division II,League,08/15/2026,14:00,DMavs Stallions,Oh Gawd XI,Naperville East
+335,Leather Ball 2026,Yash Premier League,League,08/15/2026,14:00,Pak Gymkhana,Anjuman,balstrod b.brook
+336,Leather Ball 2026,Elite White Ball Division II,League,08/15/2026,14:00,Rising Starz Youth,CYCA Underdogs,Skoke West
+337,Leather Ball 2026,Elite White Ball Division II,League,08/15/2026,14:00,PUCC,Kings,"James Park, Evanston"
+338,Leather Ball 2026,Yash Premier League,League,08/15/2026,14:00,Midwest CC,Panthers,Vernon Hills
+339,Leather Ball 2026,Blast T20,League,08/15/2026,15:30,Shaheens of Pakistan,Knotty 40,Skoke West
+340,Leather Ball 2026,Blast T20,League,08/15/2026,12:00,Chicago Saifee Warriors,Challengers,Gurnee
+341,Leather Ball 2026,Yash Premier League,League,08/15/2026,08:30,DeePark Dynamites,Deccan Mavericks,balstrod b.brook
+342,Leather Ball 2026,Yash Premier League,League,08/15/2026,08:30,SBCC Slayers,Dolphins,WP 1
+343,Leather Ball 2026,Yash Premier League,League,08/15/2026,08:30,Barrington Crescent Cricket Club,CYCA Elite,Crescent
+344,Leather Ball 2026,Elite White Ball Division II,League,08/15/2026,08:30,Dominators,Stars,"James Park, Evanston"
+345,Leather Ball 2026,Elite White Ball Division II,League,08/16/2026,14:00,Wildcats,Spartans,Gurnee
+346,Leather Ball 2026,RedBall Premier,League,08/16/2026,14:00,Midwest CC,Streamwood Cricket Club,WP 2
+347,Leather Ball 2026,RedBall Premier,League,08/16/2026,14:00,Milwaukee Panthers,Cardinals United,Hanover Park
+348,Leather Ball 2026,Blast T20,League,08/16/2026,15:30,Desi Tigers,DeePark Dynamites,Heritage Park
+349,Leather Ball 2026,Blast T20,League,08/16/2026,12:00,Challengers,Brothers XI,Gurnee
+350,Leather Ball 2026,RedBall Premier,League,08/16/2026,08:30,Rovers,CYCA Elite,Tigers Park
+351,Leather Ball 2026,RedBall Division II,League,08/16/2026,08:30,DMavs Stallions,Midwest Blizzards,Gurnee
+352,Leather Ball 2026,Elite White Ball Division II,League,08/16/2026,08:30,South Barrington Cricket Club,Black Caps,South Barrington OLD
+353,Leather Ball 2026,Elite White Ball Division II,League,08/16/2026,08:30,CYCA Underdogs,Deccan Heroes,Hanover Park
+354,Leather Ball 2026,Elite White Ball Division II,League,08/16/2026,08:30,Warriors,Hawks,Vernon Hills
+355,Leather Ball 2026,Yash Premier League,League,08/22/2026,14:00,CYCA Elite,Pak Gymkhana,Tigers Park
+356,Leather Ball 2026,Yash Premier League,League,08/22/2026,14:00,SBCC Slayers,Evanston CC,Plainfield Grande Park old
+357,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,14:00,Stars,Kings,WP 2
+358,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,14:00,Schaumburg Strikers,PUCC,Hanover Park
+359,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,14:00,DeePark Dynamites,Rising Starz Youth,Heritage Park
+360,Leather Ball 2026,Yash Premier League,League,08/22/2026,14:00,Midwest CC,Anjuman,Skoke West
+361,Leather Ball 2026,RedBall Division II,League,08/22/2026,14:00,CYCA Underdogs,Black Caps,"James Park, Evanston"
+362,Leather Ball 2026,Blast T20,League,08/22/2026,12:00,Knotty 40,Challengers,Gurnee
+363,Leather Ball 2026,Blast T20,League,08/22/2026,12:00,Club Cricket of Chicago,Chicago Saifee Warriors,Vernon Hills
+364,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,08:30,DMavs Stallions,Warriors,Naperville East
+365,Leather Ball 2026,Yash Premier League,League,08/22/2026,08:30,Dolphins,DeePark Dynamites,WP 2
+366,Leather Ball 2026,Yash Premier League,League,08/22/2026,08:30,Deccan Mavericks,Barrington Crescent Cricket Club,Crescent
+367,Leather Ball 2026,Yash Premier League,League,08/22/2026,08:30,Panthers,Kings XI Chicago,South Barrington OLD
+368,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,08:30,Midwest Vipers,Chicago Warriors,Hanover Park
+369,Leather Ball 2026,Elite White Ball Division II,League,08/22/2026,08:30,BPL Youth,Bullfincherz,Vernon Hills
+370,Leather Ball 2026,Elite White Ball Division II,League,08/23/2026,14:00,Wildcats,PUCC,Gurnee
+371,Leather Ball 2026,RedBall Premier,League,08/23/2026,14:00,SBCC Slayers,Cardinals United,balstrod b.brook
+372,Leather Ball 2026,RedBall Division II,League,08/23/2026,14:00,Club Cricket of Chicago,CYCA Underdogs,Heritage Park
+373,Leather Ball 2026,RedBall Division II,League,08/23/2026,14:00,Midwest Blizzards,Chicago Warriors,Skoke East
+374,Leather Ball 2026,RedBall Division II,League,08/23/2026,14:00,Evanston CC,Black Caps,"James Park, Evanston"
+375,Leather Ball 2026,RedBall Division II,League,08/23/2026,14:00,DMavs Stallions,Chicago Tigers,Vernon Hills
+376,Leather Ball 2026,Blast T20,League,08/23/2026,15:30,Brothers XI,Challengers,Gurnee
+377,Leather Ball 2026,Blast T20,League,08/23/2026,12:00,DeePark Dynamites,Chicago Saifee Warriors,Gurnee
+378,Leather Ball 2026,RedBall Premier,League,08/23/2026,08:30,Streamwood Cricket Club,CYCA Elite,Tigers Park
+379,Leather Ball 2026,Elite White Ball Division II,League,08/23/2026,08:30,South Barrington Cricket Club,Oh Gawd XI,South Barrington OLD
+380,Leather Ball 2026,RedBall Premier,League,08/23/2026,08:30,Rovers,Milwaukee Panthers,Hanover Park
+381,Leather Ball 2026,Elite White Ball Division II,League,08/23/2026,08:30,AAA,Smashers,Heritage Park
+382,Leather Ball 2026,Elite White Ball Division II,League,08/23/2026,08:30,Deccan Heroes,Dominators,Skoke West
+383,Leather Ball 2026,RedBall Premier,League,08/23/2026,08:30,Deccan Mavericks,Club Cricket of Chicago,"James Park, Evanston"
+384,Leather Ball 2026,Elite White Ball Division II,League,08/23/2026,08:30,Hawks,BPL Youth,Vernon Hills
